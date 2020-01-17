@@ -5,7 +5,7 @@ The Program Outputs A Green Background With Black Text Saying "Hello From Khang!
 
 ### App Walk-though
 
-<img src="https://github.com/KhangL/CodePath-PreWork/blob/master/Run1.gifE" width=200><br>
+<img src="https://raw.githubusercontent.com/KhangL/CodePath-PreWork/master/Run1.gif?token=ANFHPWMOGYIWEJQJH52OJTK6FI4P2" width=200><br>
 
 
 ### Required User Stories
